@@ -1,0 +1,5 @@
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\EjercicioAbstracción.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\EjercicioAbstracción.AssemblyInfoInputs.cache
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\EjercicioAbstracción.AssemblyInfo.cs
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\EjercicioAbstracción.csproj.CoreCompileInputs.cache
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\EjercicioAbstracción.sourcelink.json

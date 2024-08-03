@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{69CEAEB8-B929-45C6-B8FA-0E77FCEA3466}|EjercicioAbstracci\u00F3n\\EjercicioAbstracci\u00F3n.csproj|c:\\users\\curacao\\documents\\estudio\\project\\program2\\ejercicioabstracci\u00F3n\\ejercicioabstracci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69CEAEB8-B929-45C6-B8FA-0E77FCEA3466}|EjercicioAbstracci\u00F3n\\EjercicioAbstracci\u00F3n.csproj|solutionrelative:ejercicioabstracci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CEAEB8-B929-45C6-B8FA-0E77FCEA3466}|EjercicioAbstracci\u00F3n\\EjercicioAbstracci\u00F3n.csproj|c:\\users\\curacao\\documents\\estudio\\project\\program2\\ejercicioabstracci\u00F3n\\ejercicioabstracci\u00F3n\\operacionesmatematicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CEAEB8-B929-45C6-B8FA-0E77FCEA3466}|EjercicioAbstracci\u00F3n\\EjercicioAbstracci\u00F3n.csproj|solutionrelative:ejercicioabstracci\u00F3n\\operacionesmatematicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CEAEB8-B929-45C6-B8FA-0E77FCEA3466}|EjercicioAbstracci\u00F3n\\EjercicioAbstracci\u00F3n.csproj|c:\\users\\curacao\\documents\\estudio\\project\\program2\\ejercicioabstracci\u00F3n\\ejercicioabstracci\u00F3n\\matematicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CEAEB8-B929-45C6-B8FA-0E77FCEA3466}|EjercicioAbstracci\u00F3n\\EjercicioAbstracci\u00F3n.csproj|solutionrelative:ejercicioabstracci\u00F3n\\matematicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matematicas.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioAbstracci\u00F3n\\EjercicioAbstracci\u00F3n\\Matematicas.cs",
+              "RelativeDocumentMoniker": "EjercicioAbstracci\u00F3n\\Matematicas.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioAbstracci\u00F3n\\EjercicioAbstracci\u00F3n\\Matematicas.cs",
+              "RelativeToolTip": "EjercicioAbstracci\u00F3n\\Matematicas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:05:57.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperacionesMatematicas.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioAbstracci\u00F3n\\EjercicioAbstracci\u00F3n\\OperacionesMatematicas.cs",
+              "RelativeDocumentMoniker": "EjercicioAbstracci\u00F3n\\OperacionesMatematicas.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioAbstracci\u00F3n\\EjercicioAbstracci\u00F3n\\OperacionesMatematicas.cs",
+              "RelativeToolTip": "EjercicioAbstracci\u00F3n\\OperacionesMatematicas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:05:54.105Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "EjercicioAbstracci\u00F3n\\Program.cs",
               "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioAbstracci\u00F3n\\EjercicioAbstracci\u00F3n\\Program.cs",
               "RelativeToolTip": "EjercicioAbstracci\u00F3n\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T05:34:19.841Z",
               "EditorCaption": ""
