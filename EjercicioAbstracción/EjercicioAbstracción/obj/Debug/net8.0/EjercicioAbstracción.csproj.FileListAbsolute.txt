@@ -3,3 +3,13 @@ C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\Ejerci
 C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\EjercicioAbstracción.AssemblyInfo.cs
 C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\EjercicioAbstracción.csproj.CoreCompileInputs.cache
 C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\EjercicioAbstracción.sourcelink.json
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\bin\Debug\net8.0\EjercicioAbstracción.exe
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\bin\Debug\net8.0\EjercicioAbstracción.deps.json
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\bin\Debug\net8.0\EjercicioAbstracción.runtimeconfig.json
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\bin\Debug\net8.0\EjercicioAbstracción.dll
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\bin\Debug\net8.0\EjercicioAbstracción.pdb
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\EjercicioAbstracción.dll
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\refint\EjercicioAbstracción.dll
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\EjercicioAbstracción.pdb
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\EjercicioAbstracción.genruntimeconfig.cache
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioAbstracción\EjercicioAbstracción\obj\Debug\net8.0\ref\EjercicioAbstracción.dll

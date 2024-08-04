@@ -1,22 +1,23 @@
-﻿using EjercicioAbstracción;
-public abstract class Matematicas
+﻿namespace EjercicioAbstracción;
+
+class Program
 {
-    public Matematicas(double numero1, double numero2)
+    static void Main(string[] args)
     {
-        
-        OperacionesMatematicas operacionesMatematicas = new OperacionesMatematicas(numero1, numero2);
+        OperacionesMatematicas operacionesMatematicas = new OperacionesMatematicas();
 
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Ingrese el primer número:");
-            double numero1 = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine("Ingrese el primer número:");
+        double numero1 = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Ingrese el segundo número:");
-            double numero2 = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine("Ingrese el segundo número:");
+        double numero2 = Convert.ToDouble(Console.ReadLine());
+       
+        operacionesMatematicas.Imprimir();
 
-
-            Console.ReadLine(); 
-        }
+        Console.ReadLine();
+        Console.WriteLine("Presione cualquier tecla para salir.");
+        Console.ReadLine();
     }
 }
+
 
