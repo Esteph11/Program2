@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioInterfaces\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{138AC121-4D3A-414A-9D93-732C69642C4C}|EjercicioInterfaces\\EjercicioInterfaces.csproj|c:\\users\\curacao\\documents\\estudio\\project\\program2\\ejerciciointerfaces\\ejerciciointerfaces\\ioperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AC121-4D3A-414A-9D93-732C69642C4C}|EjercicioInterfaces\\EjercicioInterfaces.csproj|solutionrelative:ejerciciointerfaces\\ioperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AC121-4D3A-414A-9D93-732C69642C4C}|EjercicioInterfaces\\EjercicioInterfaces.csproj|c:\\users\\curacao\\documents\\estudio\\project\\program2\\ejerciciointerfaces\\ejerciciointerfaces\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AC121-4D3A-414A-9D93-732C69642C4C}|EjercicioInterfaces\\EjercicioInterfaces.csproj|solutionrelative:ejerciciointerfaces\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{138AC121-4D3A-414A-9D93-732C69642C4C}|EjercicioInterfaces\\EjercicioInterfaces.csproj|c:\\users\\curacao\\documents\\estudio\\project\\program2\\ejerciciointerfaces\\ejerciciointerfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{138AC121-4D3A-414A-9D93-732C69642C4C}|EjercicioInterfaces\\EjercicioInterfaces.csproj|solutionrelative:ejerciciointerfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IOperaciones.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioInterfaces\\EjercicioInterfaces\\IOperaciones.cs",
+              "RelativeDocumentMoniker": "EjercicioInterfaces\\IOperaciones.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioInterfaces\\EjercicioInterfaces\\IOperaciones.cs",
+              "RelativeToolTip": "EjercicioInterfaces\\IOperaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:33:19.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioInterfaces\\EjercicioInterfaces\\Operacion.cs",
+              "RelativeDocumentMoniker": "EjercicioInterfaces\\Operacion.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioInterfaces\\EjercicioInterfaces\\Operacion.cs",
+              "RelativeToolTip": "EjercicioInterfaces\\Operacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:41:02.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioInterfaces\\EjercicioInterfaces\\Program.cs",
               "RelativeDocumentMoniker": "EjercicioInterfaces\\Program.cs",
               "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2\\EjercicioInterfaces\\EjercicioInterfaces\\Program.cs",
               "RelativeToolTip": "EjercicioInterfaces\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T14:52:05.951Z",
               "EditorCaption": ""

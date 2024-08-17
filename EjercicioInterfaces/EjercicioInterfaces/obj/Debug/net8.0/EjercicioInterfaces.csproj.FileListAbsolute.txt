@@ -1,0 +1,15 @@
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.exe
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.deps.json
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.runtimeconfig.json
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.dll
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.pdb
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.AssemblyInfoInputs.cache
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.AssemblyInfo.cs
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.sourcelink.json
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.dll
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\refint\EjercicioInterfaces.dll
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.pdb
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.genruntimeconfig.cache
+C:\Users\curacao\Documents\Estudio\Project\Program2\EjercicioInterfaces\EjercicioInterfaces\obj\Debug\net8.0\ref\EjercicioInterfaces.dll
